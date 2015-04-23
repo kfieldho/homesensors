@@ -1,0 +1,6 @@
+[submodule "arduino-cmake"]
+	path = arduino-cmake
+	url = git@github.com:kfieldho/arduino-cmake.git
+[submodule "mysensorsorg"]
+	path = mysensorsorg
+	url = git@github.com:kfieldho/MySensorsArduino.git
